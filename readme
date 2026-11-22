@@ -1,0 +1,78 @@
+#  Pizza Sales Analysis Dashboard
+
+## Project Overview
+
+The Pizza Sales Analysis Dashboard is a data analytics project developed using **Microsoft Power BI**. The project focuses on analyzing pizza sales performance, customer ordering patterns, revenue, and product performance.
+
+The dashboard helps identify sales trends, popular pizza categories, and best-selling and worst-selling products through interactive visualizations.
+
+## Project Objectives
+
+- Analyze total pizza sales and revenue.
+- Understand daily and monthly order trends.
+- Identify the busiest days and months.
+- Compare sales across pizza categories and sizes.
+- Identify the best-selling and worst-selling pizzas.
+- Build an interactive dashboard using Power BI.
+
+## Tools & Technologies
+
+- Microsoft Power BI
+- Pizza Sales Dataset
+
+## Dashboard Features
+
+### Page 1: Pizza Sales Overview
+
+**KPI Cards:**
+- Total Pizzas Sold
+- Total Revenue
+- Total Orders
+- Average Order Value
+- Average Pizzas Per Order
+
+**Charts:**
+- Daily Trend for Total Orders
+- Monthly Trend for Total Orders
+- Percentage of Sales by Pizza Category
+- Percentage of Sales by Pizza Size
+- Total Pizzas Sold by Pizza Category
+
+### Page 2: Best and Worst Sellers
+
+**Best-Selling Pizzas:**
+- Top 5 Pizzas by Revenue
+- Top 5 Pizzas by Quantity
+- Top 5 Pizzas by Total Orders
+
+**Worst-Selling Pizzas:**
+- Bottom 5 Pizzas by Revenue
+- Bottom 5 Pizzas by Quantity
+- Bottom 5 Pizzas by Total Orders
+
+## Key Insights
+
+- Classic pizza category contributes the highest sales and orders.
+- Large-size pizzas contribute the maximum sales.
+- Orders are highest on weekends, especially during evenings.
+- July and January have the highest number of orders.
+- Thai Chicken Pizza generates the highest revenue.
+- Classic Deluxe Pizza leads in quantity sold and total orders.
+- Brie Carre Pizza has the lowest performance across revenue, quantity, and orders.
+
+## Interactive Features
+
+- Date Range Filter
+- Pizza Category Filter
+- Dashboard Page Navigation
+
+## Conclusion
+
+This project demonstrates how Power BI can be used to analyze pizza sales data and identify important business insights. The dashboard helps understand sales trends, customer ordering patterns, and product performance to support better business decisions.
+
+## Author
+
+**DEEKSHITHA ANKULA**
+
+Project: Pizza Sales Analysis Dashboard  
+Tool: Microsoft Power BI
